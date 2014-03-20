@@ -1,7 +1,8 @@
 /**
  * Class with methods that work on a one dimensional array
  * of integers.  
- * Mitch
+ * Stefan Alger
+ * Mitchell Johns
  */
 public class IntArrayWorkerStart
 {
